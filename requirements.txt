@@ -1,0 +1,4 @@
+cherrypy
+isbnlib
+pandas
+requests
